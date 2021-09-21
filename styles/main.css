@@ -1,0 +1,55 @@
+.carousel-caption{
+    bottom: 12rem;
+}
+.carousel-caption h2{
+    font-size: 50px;
+
+}
+.carousel-inner{
+    height: 200px;
+}
+.carousel-item{
+    height: 200px;
+}
+
+h1, h2, h4, h5, h6, footer {
+    text-align: center;
+    padding: 20px 0;
+  }
+
+.news{
+    background-image:url('../assets/images/shutterstock_1073972648_5.jpg');
+    margin-right:2%;
+  }
+  
+  .join-us{
+    background-image: url('../assets/images/shutterstock_792733015_6.jpg');
+    margin-left:2%;
+  }
+
+  .news, .join-us{
+    width: 100%;
+    float: left;
+    height: 225px;
+    position: relative;
+  }
+  
+  .article-title, .article-excerpt{
+    color: #fff;
+    text-align: center;
+  }
+  .article-title{
+    margin-top: 50px;
+  }
+  
+  .article-excerpt{
+    position: absolute;
+    line-height: 26px;
+    bottom: 20px;
+    text-align: right;
+    width: 96%;
+    font-size: 22px;
+  }
+  .col-12{
+    text-align:right
+  }
